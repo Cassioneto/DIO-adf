@@ -1,15 +1,15 @@
 # DIO-adf
 Exercise create a data factory of data bricks course
 
-# Falta de imagens ou screenshot
-Não tenho como obter uma conta Azure, por falta de um cartão internacional ou uma conta estudante (sou de Angola).
-
 # Dashboard
+<img src="img/dashboad.PNG">
 O Dashboard é uma visualização do Azure, totalmente personalizável onde podemos "pinar" o que queremos ver sobre recursos, custos, métricas sobre recursos...
 Podemos ter mais de um Dashboard, onde podemos personalizar todos de maneira independente.
+<img src="img/pin-resouce.PNG">
 Também podemos fazer ações rápidas sobre um recurso desde que esteja "pinado" no nosso Dashboard.
 
 # Criar recurso
+<img src="img/create-adf.PNG">
 Seja pesquisando o recurso, que no caso será o Azure data factory, na barra superior ou na opção criar recurso e nesta página buscar o recurso:
 
 - Deve ter um nome  
